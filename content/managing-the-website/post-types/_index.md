@@ -1,10 +1,11 @@
-# Post types
+---
+title: Post types
+weight: 30
+---
 
 Post types are a critical aspect of managing content in WordPress. (Presumably, even the name "post types" hearkens back to WordPress's roots as a blogging platform.) Different post types have different behaviors and different capabilities.
 
-::: tip
-Built-in post types (4 minute read): <https://wordpress.org/support/article/post-types/>
-:::
+{{% alert title="Built-in post types" %}}4 minute read: <https://wordpress.org/support/article/post-types/>{{% /alert %}}
 
 In addition to the built-in post types, WordPress allows developers to add their own custom types. Plugins, such as the calendaring plugin EventON, have a tendency to add custom post types.
 
