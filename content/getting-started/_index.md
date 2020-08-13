@@ -1,5 +1,10 @@
 ---
-title: Get started
+title: Getting started
+menu:
+  main:
+    weight: 10
+cascade:
+  type: docs
 ---
 
 # Get started
