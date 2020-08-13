@@ -5,10 +5,9 @@ menu:
   main:
     weight: 30
 cascade:
+  layout: single
   type: docs
 ---
-
-# Managing content on www.ermapta.org
 
 Managing content on the website is not challenging, but it does require some learning up front. In this series, we will walk through:
 
@@ -25,9 +24,9 @@ This content heavily links out to external documentation rather than reproducing
 Note: this series is only about managing the content on the website. This should be sufficient for most volunteers. For information on how the website is hosted, see <https://diy.ermapta.org>.
 
 [1]: about-wordpress
-[2]: backup-website
+[2]: backup
 [3]: post-types
-[4]: managing-pages
-[5]: managing-events
-[6]: managing-menu
-[7]: managing-theme
+[4]: pages
+[5]: events
+[6]: menu
+[7]: theme
