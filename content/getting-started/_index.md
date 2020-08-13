@@ -4,10 +4,9 @@ menu:
   main:
     weight: 10
 cascade:
+  layout: single
   type: docs
 ---
-
-# Get started
 
 ![photo of person in starting blocks][hero-image]
 
@@ -40,7 +39,7 @@ Teams is more of a real-time communication tool. It lets you IM, join calls, and
 
 You can save documents in personal or shared locations. You can also share the documents with the group of people you specify.
 
-## The laundry list of other links...
+## The laundry list of other links
 
 - How to [add shared mailboxes](add-shared-mailboxes) to your email client
 
