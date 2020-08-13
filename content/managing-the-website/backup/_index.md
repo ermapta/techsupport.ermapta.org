@@ -1,4 +1,8 @@
-# Backup website
+---
+title: Backup website
+linkTitle: Backup
+weight: 20
+---
 
 The single most important aspect of managing the website is to ensure that backups exist before making significant changes.
 
@@ -11,11 +15,9 @@ Backups are scheduled to occur every day at 12:05am Pacific time. The backup ret
 
 This means that for the past three months we can restore the web site to how it was on a particular day, and for the nine months before that we can restore the website to how it was on a particular week.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZM6GBFoZhh8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube ZM6GBFoZhh8 >}}
 
-::: tip Documentation
-Configuring scheduled backups (2 minute read): <https://updraftplus.com/faqs/how-do-i-schedule-backups-for-my-files-and-databases/>
-:::
+{{% alert title="Configuring scheduled backups" %}}2 minute read: <https://updraftplus.com/faqs/how-do-i-schedule-backups-for-my-files-and-databases/>{{% /alert %}}
 
 ## When a backup is needed
 
@@ -37,8 +39,8 @@ A backup is not necessary before:
 
 It is safe to rely on a scheduled backup for most purposes. However, if you are doing a lot of work on the website and wish to preserve everything you've done since 12:05am, you can run a manual backup.
 
+{{< youtube MZCmAZ8rnMk >}}
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MZCmAZ8rnMk?start=51" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-::: tip Documentation
-Running manual backups (14 minute read overall, but focus on the "Creating Manual WordPress Backups" section): <https://www.wpbeginner.com/plugins/how-to-backup-restore-your-wordpress-site-with-updraftplus/>
-:::
+{{% alert title="Running manual backups" %}}14 minute read overall, but focus on the "Creating Manual WordPress Backups" section: <https://www.wpbeginner.com/plugins/how-to-backup-restore-your-wordpress-site-with-updraftplus/>{{% /alert %}}
