@@ -1,16 +1,18 @@
-# Managing events
+---
+title: Managing events
+linkTitle: Events
+weight: 50
+---
 
 We use the [EventON plugin](https://www.myeventon.com/) to manage events. EventON is a very sophisticated event management plugin with a variety of calendar types and a rich taxonomy system (this will make sense in a sec).
 
-::: tip Demo
-EventON demo: <https://demo.myeventon.com/>
-:::
+{{% alert title="Demo" %}}EventON demo: <https://demo.myeventon.com/>{{% /alert %}}
 
 ## Creating events
 
 Creating events is extremely simple. Like other post types, the key fields on an event are its title, description, featured image, etc. In addition to this, the event can be categorized for richer filtering or similar purposes.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0dod0m3Flvg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube 0dod0m3Flvg >}}
 
 ## The EventON taxonomy
 
@@ -20,7 +22,7 @@ Events have a rich taxonomy (system of classification, if you don't remember you
 - Calendars can be filtered by users to a particular event type or tag; this allows users to search for fundraisers (an event type) that involve food (a tag)
 - Calendars can be constrained with a shortcode to show only a particular event type; this allows us to create for instance a calendar that omits uninteresting events or shows only the next fundraiser
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/G9vhObbsCP8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube G9vhObbsCP8 >}}
 
 The taxonomy is designed to be customized to our needs. We have the option of using tags + up to five "types". We currently are only using one type and the tags. The type is set up to be a very rough categorization of event types. We have defined the following:
 
