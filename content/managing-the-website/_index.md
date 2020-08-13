@@ -1,5 +1,11 @@
 ---
-prev: false
+title: Managing content on www.ermapta.org
+linkTitle: Managing the website
+menu:
+  main:
+    weight: 30
+cascade:
+  type: docs
 ---
 
 # Managing content on www.ermapta.org
