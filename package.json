@@ -1,0 +1,24 @@
+{
+  "name": "techsupport.ermapta.org",
+  "version": "1.0.0",
+  "description": "Tech support site for ERMA PTA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ermapta/techsupport.ermapta.org.git"
+  },
+  "author": "Mark Stafford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ermapta/techsupport.ermapta.org/issues"
+  },
+  "homepage": "https://github.com/ermapta/techsupport.ermapta.org#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^9.8.6",
+    "postcss-cli": "^7.1.1"
+  }
+}
