@@ -1,7 +1,7 @@
 ---
 title: "Get to know Teams"
 linkTitle: "2. Get to know Teams"
-weight: 20
+weight: 30
 ---
 
 {{< imgproc hero Resize "900x"/>}}

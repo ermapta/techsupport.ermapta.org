@@ -1,7 +1,7 @@
 ---
 title: "Set up email"
 linkTitle: "1. Set up email"
-weight: 10
+weight: 20
 ---
 
 {{< imgproc hero Resize "900x" />}}

@@ -1,7 +1,7 @@
 ---
 title: Save and share documents
 linkTitle: 3. Save and share documents
-weight: 30
+weight: 40
 ---
 
 {{< imgproc hero Resize "900x" />}}

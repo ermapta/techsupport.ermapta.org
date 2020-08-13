@@ -1,4 +1,4 @@
 ---
 title: Usage guidelines
-weight: 40
+weight: 10
 ---
