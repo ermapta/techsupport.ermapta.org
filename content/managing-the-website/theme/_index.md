@@ -1,1 +1,5 @@
-# Managing the theme
+---
+title: Managing the theme
+linkTitle: Theme
+weight: 90
+---

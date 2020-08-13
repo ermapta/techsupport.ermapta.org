@@ -1,1 +1,5 @@
-# Managing the menu
+---
+title: Managing the menu
+linkTitle: Menu
+weight: 80
+---
