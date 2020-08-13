@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "ERMA PTA tech support"
 
 enableRobotsTXT = true
+enableGitInfo = true
 
 theme = ["docsy"]
 
@@ -50,7 +51,6 @@ privacy_policy = "https://ermapta.org/privacy"
 # images = ["images/project-illustration.png"]
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-enableGitInfo = true
 github_repo = "https://github.com/ermapta/techsupport.ermapta.org"
 
 # Enable Algolia DocSearch
