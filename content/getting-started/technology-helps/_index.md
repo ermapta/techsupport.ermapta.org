@@ -1,8 +1,7 @@
 ---
-title: Technology helps
+title: "Technology helps"
+toc_hide: true
 ---
-
-# Technology helps
 
 ![photo of person typing on computer][hero-image]
 
@@ -43,9 +42,13 @@ On a more positive note, technology makes it easier for everyone to participate 
 
 When meetings happen in a particular physical location, it makes participation difficult or impossible for people who can't make it to that location at that time. There are times when we travel for work or play; technology gives us the ability to enable meeting participation even in those times.
 
-::: warning
-TODO: The rest of this article is unfinished.
-:::
+{{% alert title="TODO" color="info" %}}
+The rest of this article is unfinished.
+{{% /alert %}}
+
+{{% alert title="Warning" color="warning" %}}
+This is a warning.
+{{% /alert %}}
 
 Technology also puts everyone on an equal footing.
 
