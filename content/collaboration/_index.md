@@ -6,5 +6,3 @@ menu:
 cascade:
   type: docs
 ---
-
-Stub
