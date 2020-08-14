@@ -4,6 +4,7 @@ title = "ERMA PTA tech support"
 
 enableRobotsTXT = true
 enableGitInfo = true
+enableEmoji = true
 
 theme = ["docsy"]
 
