@@ -8,6 +8,10 @@ enableEmoji = true
 
 theme = ["docsy"]
 
+# Enable Algolia DocSearch
+algolia_docsearch = true
+
+
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 # Highlighting config
@@ -55,7 +59,7 @@ privacy_policy = "https://ermapta.org/privacy"
 github_repo = "https://github.com/ermapta/techsupport.ermapta.org"
 
 # Enable Algolia DocSearch
-algolia_docsearch = false
+algolia_docsearch = true
 
 # User interface configuration
 [params.ui]
@@ -64,7 +68,7 @@ sidebar_menu_compact = false
 #  Set to true to disable breadcrumb navigation.
 breadcrumb_disable = false
 #  Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
-sidebar_search_disable = false
+sidebar_search_disable = true
 #  Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top nav bar
 navbar_logo = true
 # Set to true to disable the About link in the site footer
